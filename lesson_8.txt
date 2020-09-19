@@ -1,1 +1,0 @@
-fetch --ll fetches all remotes.
