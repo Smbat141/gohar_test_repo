@@ -1,1 +1,3 @@
 git fetch --all fetches all remotes. 
+now save in lesson_8 branch
+git log filtering - included in the lesson.
